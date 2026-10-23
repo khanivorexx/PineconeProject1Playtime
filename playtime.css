@@ -840,7 +840,7 @@ footer {
   height: 62.6px;
   display: flex;
   justify-content: space-between;
-  align-items: start;
+  align-items: center;
 }
 footer p {
   color: #cfc2d6;
