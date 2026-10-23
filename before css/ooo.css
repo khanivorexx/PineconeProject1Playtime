@@ -1,0 +1,26 @@
+.box {
+  width: 250px;
+  height: 350px;
+  background-color: rgb(225, 221, 178);
+  margin: 25px;
+  border-radius: 25px;
+  .innerbox {
+    padding: 25px;
+  }
+  .last {
+    margin-top: 10px;
+  }
+  .nevtreh {
+    font-family: "Courier New", Courier, monospace;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .email {
+    font-family: "Courier New", Courier, monospace;
+  }
+  .button {
+    width: 200px;
+    padding: 10px;
+    margin-top: 10px;
+  }
+}
